@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bikkarawat28@gmail.com**
 
-- ⚡ Fun fact **i fart**
+- ⚡ Fun fact **i touch grass daily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
