@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Rawat</h1>
 <h3 align="center">Aspiring Game programmer from India</h3>
 <img align="right" alt="Mario" width="400" src="https://www.icegif.com/wp-content/uploads/mario-icegif-18.gif">
-- 🔭 I’m currently working on **endless runner**
-
-- 🌱 I’m currently learning **opengl**
 
 - 💬 Ask me about **unity**
 
